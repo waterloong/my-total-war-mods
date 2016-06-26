@@ -1,0 +1,166 @@
+（扬州的濡须口 在游戏文件里是和司隶的在一块 什么情况我也不清楚 他的代码各位请在司隶里面找.另外 赤壁的代码没看到)
+幽州
+C-0101-a-BeiPing              北平
+C-0102-a-XiangPing           襄平
+C-0103-a-LiaoXi                辽西
+C-0104-a-DaiXian              代县
+C-0105-a-FanYang            范阳
+C-0106-a-ChangLi             昌黎
+C-0107-a-LeLang              乐浪
+并州
+C-0201-a-TaiYuan            太原
+C-0202-a-ShangDang       上当
+C-0203-a-XiHe                 西河
+C-0204-a-XinXing             新兴
+C-0205-ag-YanMenGuan   雁门关
+C-0206-ag-HuKouGuan     壶口关
+冀州
+C-0301-a-YeCheng          邺城
+C-0302-a-NanPi               南皮
+C-0303-a-Xindu               信都
+C-0304-a-GuangPing        广平
+C-0305-a-ChangShan       常山
+C-0306-a-LeLing             乐陵
+C-0307-a-LiYang             黎阳
+C-0308-a-QingHe            清河
+青州
+C-0401-a-LinZhi              临植
+C-0402-a-BeiHai              北海
+C-0403-a-DongLai           东莱
+C-0404-a-LangYa            琅琊
+C-0405-a-PingYuan         平原
+C-0406-a-ChengYang      城阳
+徐州
+C-0501-a-Xiapi                下邳
+C-0502-a-GuangLing        广陵
+C-0503-a-HuaiLing           淮陵
+C-0504-a-PengCheng      彭城
+兖州
+C-0601-a-ChenLiu           陈留
+C-0602-a-PuYang           濮阳
+C-0603-a-ShanYang       山阳
+C-0604-a-LuJun             鲁郡
+C-0605-a-JiYing             济阴
+C-0606-a-TaiShan          泰山
+豫州
+C-0701-a-XvChang         许昌
+C-0702-a-RuNan            汝南
+C-0703-a-Qiao               谯
+C-0704-a-ZhanChun       斩春
+C-0705-a-XiangCheng     襄城
+C-0706-a-YiYang           弋阳
+C-0707-a-LuYang          鲁阳
+C-0708-a-XiaoPei           小沛
+C-0709-a-AnFeng          安丰
+C-0710-a-WuYin           舞阴
+C-0711-a-RuYin            汝阴
+C-0712-a-ChenXian       陈县
+C-0713-a-ZhuiYang       追阳
+司隶
+C-0801-a-LuoYang       洛阳
+C-0802-a-HongLong     宏隆
+C-0803-a-HeNei           河内
+C-0804-a-HeDong        河东
+C-0805-a-PingYang      平阳
+C-0806-ag-HuLaoGuan  虎牢关
+C-0807-ag-TongGuan    潼关
+C-0808-ag-GuanDu       官渡
+C-0809-ag-WuGuan       武关
+C-0810-a-ruxukou         濡须口
+雍州
+C-0901-a-ChangAn       长安
+C-0902-a-TianShui        天水
+C-0903-a-ChenCang      陈仓
+C-0904-a-LongXi           陇西
+C-0905-a-NanAn           南安
+C-0906-a-AnDing          安定
+C-0907-a-BeiDi             北地
+C-0908-a-FengYi          冯翊
+C-0909-ag-SanGuan      散关
+C-0910-ag-JieTing        街亭
+凉州
+C-1001-a-WuWei         武威
+C-1002-a-XiPing           西平
+C-1003-a-JinCheng       金城
+荆北
+C-1101-a-XiangYang     襄阳
+C-1102-a-JiangLing       江陵
+C-1103-a-WanCheng    宛城
+C-1104-a-JiangXia        江夏
+C-1105-a-XingYe         新野
+C-1106-a-MaiCheng      麦城
+C-1107-a-NanXiang      南乡
+C-1108-a-GaiYang        丐阳
+C-1109-ag-YiLing         夷陵
+C-1110-a-FanCheng     樊城
+C-1111-a-ShangXu      上旭
+荆南				
+C-1201-a-ChangSha     长沙
+C-1202-a-GuiYang        贵阳
+C-1203-a-WuLing        武陵
+C-1204-a-LingLing       零陵
+C-1205-a-HengYang    衡阳
+C-1206-a-MoYang       末阳
+C-1207-a-BaQiu          巴丘
+C-1208-a-GongAn       公安
+扬州
+C-1301-a-Wu             吴
+C-1302-a-JianYe         建业
+C-1303-a-ShouChun    寿春
+C-1304-a-HuiJi            会籍
+C-1305-a-LuJiang        庐江
+C-1306-a-ChaiSang      柴桑
+C-1307-a-HeFei           合肥
+C-1308-a-PoYang       鄱阳
+C-1309-a-LinHai          临海
+C-1310-a-JianAn         建安
+C-1311-a-YuZhang      豫章
+C-1312-a-LuLing         庐陵
+C-1313-a-CangWu      苍梧
+C-1314-a-ShiXin          始新
+C-1315-a-JingXian       泾县
+益州
+C-1401-a-ChengDu    成都
+C-1402-a-JiangZhou   江州
+C-1403-a-ZiTong       梓潼
+C-1404-a-ShangYong   上庸
+C-1405-a-LuoCheng     洛城
+C-1406-a-YongAn       永安
+C-1407-a-JiangYang     江阳
+C-1408-a-FuLing         涪陵
+C-1409-a-DeYang       德阳
+C-1410-a-XinCheng     新城
+C-1411-a-LangZhong    阆中
+C-1412-a-Hanjia          汉嘉
+C-1413-a-JianWe        犍为
+C-1414-a-WeiXing       魏兴
+C-1415-a-ZiGui           秭归
+C-1416-a-YinPing       阴平
+C-1417-a-WenShan    汶山
+C-1418-a-LinJiang       临江
+C-1419-a-DianJiang     垫江
+C-1420-a-YanQu        严渠
+C-1421-ag-MianZhuGuan    绵竹关
+C-1422-ag-JianMenGuan     剑门关
+C-1423-ag-BaiShuiGuan      白水关
+C-1424-ag-XiaMengGuan    霞萌关
+C-1425-a-HanZhong          汉中
+C-1426-a-WuDu               武都
+C-1427-ag-YangPingGuan   阳平关
+南中
+C-1501-a-YunNan              云南  
+C-1502-a-JianNing              建宁
+C-1503-a-YongChang         永昌
+C-1504-a-YueXi                 越
+C-1505-a-ZangKe               牂牁
+C-1506-a-ZhuTi                 朱提
+
+C-1601-a-MY-WuWan        乌丸
+C-1602-a-MY-XiongNu        匈奴
+C-1603-a-MY-XianBei          鲜卑
+C-1604-a-MY-Jie               ？ 没注意地图上这个地方 抱歉
+C-1605-a-MY-Qiang           羌
+C-1606-a-MY-Di                氐
+C-1607-a-MY-ShanYue      山越
+C-1608-a-MY-TaiWan        台湾
+C-1609-a-MY-PengLai        蓬莱 这地方难道正式版才有么？
